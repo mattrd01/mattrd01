@@ -134,19 +134,10 @@ I am actively interested in opportunities involving:
 
 📧 Email: Matthew.r.davis2001@gmail.com
 
-💼 LinkedIn: Add Your LinkedIn URL Here
-
 🐙 GitHub: https://github.com/mattrd01
 
 ---
 
-## 📊 GitHub Stats
-
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattrd01&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattrd01&layout=compact)
-
----
 
 ## 💡 Professional Philosophy
 
